@@ -1,4 +1,6 @@
 #  Training Machine Learning projects
 
-My projects used basic ML models.
-
+| LEFT | CENTER | RIGHT |
+|----------------|:---------:|----------------:|
+| По левому краю | По центру | По правому краю |
+| текст | текст | текст |
