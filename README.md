@@ -1,5 +1,7 @@
 #  Training Machine Learning projects
 
+[Sertificate of competition](certificate.pdf)
+
 | Project | Description | Libraries|
 |----:|:----:|:----------|
 | [Steel temperature](https://github.com/tintubiel/ML_projects/blob/main/diplom_DS_final.ipynb)| Steel temperature prediction| pandas, numpy, matplotlib, seaborn, sklearn, lightgbm |
